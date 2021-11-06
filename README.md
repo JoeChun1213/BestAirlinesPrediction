@@ -1,5 +1,3 @@
-** change title and use local repo loading **
-
 # Objectives
 In this project, we determined the Highest Performing Airlines by Ivestigating Air tracffic at San Francisco International Airport (SFO). 
 ### Tomasz Olewicz, Alex Lamp, Irene Kang, Joe Chun
