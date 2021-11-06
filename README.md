@@ -59,7 +59,7 @@ The classification report shows a representation of the main classification metr
 We generate a categorical variable list by confirming the number of unique values in each column that reads Published Airline IATA Code from our database. We then create a OneHotEncoder instance and transform the data frame using the categorical variable list. We add the encoded variable names into the data frame, split training, testing and create the SVM model. Lastly, evaluate with the SVM model accuracy: 0.573. This implies the model was correct around 57% of the time.
 
 ## Slides
-https://drive.google.com/drive/u/1/folders/1CxCQ2WHsv6uVkGqvVIwuzLzsKc7Fjq_B
+https://github.com/JoeChun1213/BestAirlinesPrediction/blob/master/Group%2001%20Final%20Presentation.pdf
 
 ## Tableau
 https://public.tableau.com/profile/alexander.lamp#!/vizhome/Airlinesworkbook/Story1
